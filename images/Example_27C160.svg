@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<svg width="400" height="75" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+
+ <title>Example for 27C160</title>
+ <g class="layer" display="inline">
+  <title>Layer 1</title>
+  <rect fill="#3f3f3f" height="25" id="svg_5" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" width="100" x="0" y="25"/>
+  <text fill="#ffffff" font-family="Sans-serif" font-size="12" id="svg_3" stroke="#ff0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" text-anchor="middle" transform="matrix(1, 0, 0, 1, 0, 0)" x="50" xml:space="preserve" y="40.75">Slot 1 (512KiB)</text>
+  <rect fill="#3f3f3f" height="25" id="svg_8" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" transform="matrix(1, 0, 0, 1, 0, 0)" width="100" x="100" y="25"/>
+  <text fill="#ffffff" font-family="Sans-serif" font-size="12" id="svg_6" stroke="#ff0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" text-anchor="middle" transform="matrix(1, 0, 0, 1, 0, 0)" x="150" xml:space="preserve" y="40.75">Slot 2 (512KiB)</text>
+  <rect fill="#3f3f3f" height="25" id="svg_10" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" transform="matrix(1, 0, 0, 1, 0, 0)" width="100" x="200" y="25"/>
+  <text fill="#ffffff" font-family="Sans-serif" font-size="12" id="svg_9" stroke="#ff0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" text-anchor="middle" transform="matrix(1, 0, 0, 1, 0, 0)" x="250" xml:space="preserve" y="40.75">Slot 3 (512KiB)</text>
+  <rect fill="#3f3f3f" height="25" id="svg_12" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" transform="matrix(1, 0, 0, 1, 0, 0)" width="100" x="300" y="25"/>
+  <text fill="#ffffff" font-family="Sans-serif" font-size="12" id="svg_11" stroke="#ff0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" text-anchor="middle" transform="matrix(1, 0, 0, 1, 0, 0)" x="350" xml:space="preserve" y="40.75">Slot 4 (512KiB)</text>
+  <rect fill="#7f7f7f" height="25" id="svg_46" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" transform="matrix(1, 0, 0, 1, 0, 0)" width="200" y="50"/>
+  <text fill="#ffffff" font-family="Sans-serif" font-size="12" id="svg_44" stroke="#ff0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" text-anchor="middle" transform="matrix(1, 0, 0, 1, 0, 0)" x="100" xml:space="preserve" y="65.75">Test Cartridge (1MiB)</text>
+  <rect fill="#7f7f7f" height="25" id="svg_40" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" transform="matrix(1, 0, 0, 1, 0, 0)" width="100" x="200" y="50"/>
+  <text fill="#ffffff" font-family="Sans-serif" font-size="12" id="svg_39" stroke="#ff0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" text-anchor="middle" transform="matrix(1, 0, 0, 1, 0, 0)" x="250" xml:space="preserve" y="65.75">Burn-In (512KiB)</text>
+  <rect fill="#7f7f7f" height="25" id="svg_38" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" transform="matrix(1, 0, 0, 1, 0, 0)" width="100" x="300" y="50"/>
+  <text fill="#ffffff" font-family="Sans-serif" font-size="12" id="svg_37" stroke="#ff0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" text-anchor="middle" transform="matrix(1, 0, 0, 1, 0, 0)" x="350" xml:space="preserve" y="65.75">240p (512KiB)</text>
+  <line fill="none" id="svg_55" stroke="#3f3f3f" stroke-dasharray="2" stroke-linecap="null" stroke-linejoin="null" transform="matrix(1, 0, 0, 1, 0, 0)" x1="100" x2="100" y1="50" y2="75">Image 2 (512KiB)</line>
+  <rect fill="#3f3f3f" height="25" id="svg_62" stroke="#000000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" transform="matrix(1, 0, 0, 1, 0, 0)" width="400" x="0" y="0"/>
+  <text fill="#ffffff" font-family="Sans-serif" font-size="12" id="svg_63" stroke="#ff0000" stroke-dasharray="null" stroke-linecap="null" stroke-linejoin="null" stroke-opacity="null" stroke-width="0" text-anchor="middle" x="200" xml:space="preserve" y="15.62">27C160 (2MiB)</text>
+ </g>
+</svg>
