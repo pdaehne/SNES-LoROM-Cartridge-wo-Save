@@ -30,7 +30,7 @@ page.
 > to order a surface finish of ENIG with gold fingers and chamfered edges,
 > because it is much more durable than the default HASL finish.
 
-## Building the Adapter
+## Building the Cartridge
 
 ### Bill of Materials
 
