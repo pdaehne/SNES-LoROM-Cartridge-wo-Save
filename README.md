@@ -15,7 +15,7 @@ LoROM, HiROM and ExHiROM. Most cartridge images have a header that specifies
 the type of cartridge (a notable exception are the test cartridges, which are
 both LoROM cartridges, but do not have a header). There are software tools out
 there that allow you to view the information in the cartridge image, and you
-can use such a tool to determine whether this is image needs a LoROM, HiROM or
+can use such a tool to determine whether a given image needs a LoROM, HiROM or
 ExHiROM cartridge PCB.
 
 ## Ordering the PCB
@@ -92,8 +92,8 @@ when you use sockets.
 When you solder the EPROM directly to the PCB, you have program it before doing
 so! See below for more information.
 
-Make sure the the little notch of the socket is aligned with the the litte notch
-on the silk screen (to the right in the image below).
+Make sure the little notch of the socket is aligned with the little notch on the
+silk screen (to the right in the image below).
 
 [![Soldering the Socket for the EPROM](images/EPROM_Socket.preview.jpg)](images/EPROM_Socket.jpg?raw=1)
 
@@ -105,8 +105,8 @@ optional, you can also solder the PIC directly to the PCB.
 When you solder the PIC directly to the PCB, you have program it before doing
 so! See below for more information.
 
-Make sure the the little notch of the socket is aligned with the the litte notch
-on the silk screen (to the right in the image below).
+Make sure the little notch of the socket is aligned with the little notch on the
+silk screen (to the right in the image below).
 
 [![Soldering the Socket for the PIC](images/PIC_Socket.preview.jpg)](images/PIC_Socket.jpg?raw=1)
 
@@ -130,7 +130,7 @@ required.
 
 The DIP switch is optional, it is only required when you plan to put more than
 one cartridge image onto the EPROM. When you install it, you also have to
-install the pullup resistors R1 and R2. When you do not install ist, you have to
+install the pullup resistors R1 and R2. When you do not install it, you have to
 close the corresponding jumpers on the other side of the PCB with a blob of
 solder.
 
@@ -272,7 +272,7 @@ EPROM we are using, but this is the way these adapters work. The 27C4096 is a
 use it to program our 27C160 with chunks of 512 KiB. We have to deselect "Check
 ID" for obvious reasons as well as "Pin Detect", and we have to set "Puls Delay"
 to "50us". Finally, we have to adjust "VPP Voltage", have a look into the
-datasheet for your EPROM. The datasheet for my STM M26C160 says that the
+datasheet for your EPROM. The datasheet for my ST M27C160 says that the
 programming voltage has be "12.00V".
 
 Now load the cartridge image for the first slot, in our case the "NTF 2.5 Test
