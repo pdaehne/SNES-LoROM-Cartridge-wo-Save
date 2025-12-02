@@ -164,7 +164,7 @@ https://sd2snes.de/blog/cool-stuff/supercic
 
 The actual source code (if you are interested) is available on Github:
 
-https://github.com/mrehkopf/sd2snes/tree/develop/cic/supercic
+https://github.com/mrehkopf/sd2snes/tree/master/cic/supercic
 
 What you need for programming the PIC is the file "supercic-key_p12f629.hex"
 inside the zip file from the first link and of course a programmer. I own the
